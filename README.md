@@ -2,7 +2,7 @@
 This repository contains a python notebook that shows the basic functions of Pandas module, how  data Handling, data analysis can be done using it. The advantages and Applications are also highlighted.
 <br>
 <br>
-Check out the Pandas.iynb file provided for the full report.
+Check out the Pandas.ipynb file provided for the full report.
 <br>
 <br>
 <br>
